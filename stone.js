@@ -1,4 +1,4 @@
-class Stone{
+class stone{
         constructor(x, y, radius){
             var options={
                 isStatic:false,
